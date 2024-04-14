@@ -1,0 +1,7 @@
+C:\Users\linco\OneDrive\Área de Trabalho\Estudos Puc2024\C#\Atividade 2\EX08\bin\Debug\EX08.exe.config
+C:\Users\linco\OneDrive\Área de Trabalho\Estudos Puc2024\C#\Atividade 2\EX08\bin\Debug\EX08.exe
+C:\Users\linco\OneDrive\Área de Trabalho\Estudos Puc2024\C#\Atividade 2\EX08\bin\Debug\EX08.pdb
+C:\Users\linco\OneDrive\Área de Trabalho\Estudos Puc2024\C#\Atividade 2\EX08\obj\Debug\EX08.csproj.AssemblyReference.cache
+C:\Users\linco\OneDrive\Área de Trabalho\Estudos Puc2024\C#\Atividade 2\EX08\obj\Debug\EX08.csproj.CoreCompileInputs.cache
+C:\Users\linco\OneDrive\Área de Trabalho\Estudos Puc2024\C#\Atividade 2\EX08\obj\Debug\EX08.exe
+C:\Users\linco\OneDrive\Área de Trabalho\Estudos Puc2024\C#\Atividade 2\EX08\obj\Debug\EX08.pdb

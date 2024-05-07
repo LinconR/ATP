@@ -1,0 +1,7 @@
+C:\Users\linco\OneDrive\Área de Trabalho\Estudos Puc2024\C#\Ativdade 3\EX05\bin\Debug\EX05.exe.config
+C:\Users\linco\OneDrive\Área de Trabalho\Estudos Puc2024\C#\Ativdade 3\EX05\bin\Debug\EX05.exe
+C:\Users\linco\OneDrive\Área de Trabalho\Estudos Puc2024\C#\Ativdade 3\EX05\bin\Debug\EX05.pdb
+C:\Users\linco\OneDrive\Área de Trabalho\Estudos Puc2024\C#\Ativdade 3\EX05\obj\Debug\EX05.csproj.AssemblyReference.cache
+C:\Users\linco\OneDrive\Área de Trabalho\Estudos Puc2024\C#\Ativdade 3\EX05\obj\Debug\EX05.csproj.CoreCompileInputs.cache
+C:\Users\linco\OneDrive\Área de Trabalho\Estudos Puc2024\C#\Ativdade 3\EX05\obj\Debug\EX05.exe
+C:\Users\linco\OneDrive\Área de Trabalho\Estudos Puc2024\C#\Ativdade 3\EX05\obj\Debug\EX05.pdb
